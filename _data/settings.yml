@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Pod Malayalam
-logo: logo.svg # You can add own logo.
+logo: logo_small.png # You can add own logo.
 description: Pod Malayalam is a Malayalam Podcast
 
 
@@ -9,8 +9,8 @@ description: Pod Malayalam is a Malayalam Podcast
 # Author Settings
 author:
   name: Pod Malayalam
-  image: 01.jpg
-  say-hello: Hello, This is <strong>Alex Rodriguez</strong>
+  image: logo.png
+  say-hello: Hello, This is <strong>Pod Malayalam</strong>
   bio: A Podcast discussing <strong>Technology</strong>, <strong>Stories</strong>, <strong>Politics</strong> etc in Malayalam.
 
 
@@ -41,4 +41,4 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
-mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: github.us19.list-manage.com/subscribe/post?u=98b9f3f0ba63c729693b6f87c&amp;id=d59b72b8a2 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
